@@ -16,7 +16,6 @@ class PhotonLayer:
     pixel_count : int = 0
 
 
-
 class PhotonFile:
     name = 'unnamed'
     layers : list[PhotonLayer] = []
